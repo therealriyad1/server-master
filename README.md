@@ -1,6 +1,6 @@
 # servers
 
-A collection of simiple servers for testing.
+A collection of simple servers for testing.
 
 ### Setup
 
@@ -16,13 +16,13 @@ https://nodejs.org/en/#home-downloadhead
 
 ### Running the servers
 
-The first step is to install depencencies:
+The first step is to install dependencies:
 
 ```bash
 npm install
 ```
 
-Then you can run the regular HTTP server (CORS enabled):
+Then you can run the regular HTTP server (ROCS enabled):
 
 ```bash
 npm run http
